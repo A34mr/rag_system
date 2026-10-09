@@ -1,0 +1,19 @@
+Acme Corp Employee Handbook
+
+Vacation Policy
+All full-time employees accrue 1.5 days of paid vacation per month.
+Vacation must be requested at least two weeks in advance through the HR portal.
+Unused vacation days carry over to the next year, up to a maximum of 10 days.
+
+Password Reset
+To reset your password, go to https://intranet.acme.local/reset
+Enter your employee ID and answer your security question.
+You will receive a reset link at your company email within 5 minutes.
+
+Remote Work
+Employees may work remotely up to 3 days per week with manager approval.
+Fully remote arrangements require VP-level approval.
+
+Refunds and Expenses
+Expense reports must be submitted within 30 days of purchase.
+Refunds for approved expenses are processed on the next payroll cycle.
